@@ -4,6 +4,26 @@
 
 This advanced KPI forecasting system provides comprehensive time series analysis and prediction capabilities for automotive dealership data. The system automatically selects the best forecasting model for each KPI, generates quality assessments, and provides an interactive dashboard for business intelligence.
 
+---
+
+## 📊 Forecast Explorer
+![Forecast Explorer](images/Dashboard.png)
+
+---
+
+## 🔗 Correlation Heatmap
+![Correlation Heatmap](images/Heatmap.png)
+
+---
+
+## 🤔 What-If Analysis
+![What-If Analysis](images/Whatif.png)
+
+---
+
+## 📑 Model Report Explorer
+![Model Report Explorer](images/ModelReport.png)
+
 ### 🎯 Key Features
 
 - **Multi-Model Forecasting**: ARIMA, ETS, Linear Regression, and Seasonal Naive models
